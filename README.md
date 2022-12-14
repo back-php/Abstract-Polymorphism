@@ -108,5 +108,6 @@ Later we have declared a function greeting ( ) that will accept input as an arra
 further to retrieve the output, we have declared an array of objects of all the child classes English, Arabic and French ( to call a class or to retrieve an output from a class we have to create an object of that particular class) and 
 passed the object to out greeting function as the perimeter.
 
-To sum up : **Abstraction** is conceptual,while **Polymorphism** is behavioral
+###**To sum up :**
+**Abstraction** is conceptual,while **Polymorphism** is behavioral
 
